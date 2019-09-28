@@ -1,6 +1,6 @@
 # Dockerfile #
 
-This is a docker images with Ubuntu 16.04 LTS with apache2 and php7/composer
+This is a docker image with Ubuntu 16.04 LTS, apache2 and php7/composer
 
 To access site contents from utside the container you should map /var/www/html
 
